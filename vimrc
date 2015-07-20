@@ -1,8 +1,6 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""
 " VIM configuration 
 """""""""""""""""""""""""""""""""""""""""""""""""""
-syntax on
-=======
 " Auto indent depending on file type
 filetype indent on
 set autoindent
@@ -32,4 +30,4 @@ set lbr
 set ic
 
 " Syntax highlighting
-syntax on
+"syntax on
