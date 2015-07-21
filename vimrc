@@ -3,7 +3,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""
 " Auto indent depending on file type
 filetype indent on
-set autoindent
+"set autoindent
 
 " Tabs use 4 spaces
 set tabstop=2
