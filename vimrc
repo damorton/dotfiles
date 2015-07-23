@@ -3,10 +3,12 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""
 " Auto indent depending on file type
 filetype indent on
-"set autoindent
+set autoindent
+
+set expandtab
 
 " Tabs use 4 spaces
-set tabstop=2
+set tabstop=4
 
 " Turn on line numbering.
 "set number
