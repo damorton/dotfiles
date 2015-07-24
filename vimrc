@@ -2,10 +2,13 @@
 " VIM configuration 
 """""""""""""""""""""""""""""""""""""""""""""""""""
 " Auto indent depending on file type
-filetype indent on
-set autoindent
+filetype plugin indent on
+" set autoindent
 
+" Use spaces instread of tabs
 set expandtab
+
+set shiftwidth=4
 
 " Tabs use 4 spaces
 set tabstop=4
